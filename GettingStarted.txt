@@ -1,0 +1,2 @@
+In Junaio.Core.Auth enter your api key.
+Build / Publish your site wherever your IIS is located.
