@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{10B9D5E8-9750-460F-8863-FB5EA704A0A4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Junaio.Core</RootNamespace>
+    <AssemblyName>Junaio.Core</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Auth.cs" />
+    <Compile Include="Mock\MockData.cs" />
+    <Compile Include="Model\Behavior.cs" />
+    <Compile Include="Model\Behaviors.cs" />
+    <Compile Include="Model\Date.cs" />
+    <Compile Include="Model\Description.cs" />
+    <Compile Include="Model\Force3d.cs" />
+    <Compile Include="Model\HomePage.cs" />
+    <Compile Include="Model\IAttributeCollection.cs" />
+    <Compile Include="Model\Icon.cs" />
+    <Compile Include="Model\IElement.cs" />
+    <Compile Include="Model\Length.cs" />
+    <Compile Include="Model\Mail.cs" />
+    <Compile Include="Model\MainResource.cs" />
+    <Compile Include="Model\Maxdistance.cs" />
+    <Compile Include="Model\MimeType.cs" />
+    <Compile Include="Model\Minaccuracy.cs" />
+    <Compile Include="Model\Name.cs" />
+    <Compile Include="Model\NodeId.cs" />
+    <Compile Include="Model\Phone.cs" />
+    <Compile Include="Model\Poi.cs" />
+    <Compile Include="Model\Point2f.cs" />
+    <Compile Include="Model\Point3f.cs" />
+    <Compile Include="Model\Removed.cs" />
+    <Compile Include="Model\Request\ErrorRequest.cs" />
+    <Compile Include="Model\Request\EventRequest.cs" />
+    <Compile Include="Model\Request\IRequest.cs" />
+    <Compile Include="Model\Request\RequestFactory.cs" />
+    <Compile Include="Model\Request\SearchRequest.cs" />
+    <Compile Include="Model\Request\SubscribeRequest.cs" />
+    <Compile Include="Model\Results.cs" />
+    <Compile Include="Model\Route.cs" />
+    <Compile Include="Model\Scale.cs" />
+    <Compile Include="Model\ShowCorrectPerspective.cs" />
+    <Compile Include="Model\Thumbnail.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Xml\Serializer.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,49 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Response" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Mock/f:MockData.cs" caret="218" fromTop="10" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.designer.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:SearchRequest.cs" caret="284" fromTop="11" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx" caret="101" fromTop="0" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="385" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="0" fromTop="13" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="7706" fromTop="101" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="7706" fromTop="18" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="7706" fromTop="14" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:SearchRequest.cs" caret="284" fromTop="11" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="7706" fromTop="177" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="175" fromTop="7" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx" caret="101" fromTop="0" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="3405" fromTop="14" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="3699" fromTop="23" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Sample.aspx.cs" caret="386" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

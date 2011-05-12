@@ -1,0 +1,145 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/f:Auth.cs" caret="0" fromTop="0" />
+      <File id="211A5E77-835B-431D-A7F7-1734CFEE2456/f:Junaio.aspx.cs" caret="13" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Thumbnail.cs" caret="1070" fromTop="33" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Mock/f:MockData.cs" caret="585" fromTop="20" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:ShowCorrectPerspective.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Point3f.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Removed.cs" caret="645" fromTop="26" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Route.cs" caret="370" fromTop="13" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:MimeType.cs" caret="816" fromTop="26" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Minaccuracy.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Force3d.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Scale.cs" caret="919" fromTop="36" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:IAttributeCollection.cs" caret="76" fromTop="2" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Results.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Point2f.cs" caret="338" fromTop="13" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behaviors.cs" caret="971" fromTop="30" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Poi.cs" caret="2129" fromTop="35" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Length.cs" caret="151" fromTop="8" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Name.cs" caret="98" fromTop="4" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:NodeId.cs" caret="463" fromTop="16" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="115" fromTop="3" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Xml/f:Serializer.cs" caret="1278" fromTop="20" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:RequestFactory.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:SearchRequest.cs" caret="844" fromTop="20" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:SubscribeRequest.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:ErrorRequest.cs" caret="0" fromTop="0" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:EventRequest.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behaviors.cs" caret="660" fromTop="22" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behaviors.cs" caret="971" fromTop="30" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="2376" fromTop="28" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="1142" fromTop="21" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="250" fromTop="13" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="475" fromTop="20" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="827" fromTop="21" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="672" fromTop="27" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="2565" fromTop="24" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="2696" fromTop="28" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="1879" fromTop="39" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="1760" fromTop="35" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="1465" fromTop="41" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Length.cs" caret="596" fromTop="23" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Length.cs" caret="548" fromTop="20" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Length.cs" caret="1009" fromTop="30" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Length.cs" caret="858" fromTop="36" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Length.cs" caret="151" fromTop="8" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Behavior.cs" caret="115" fromTop="3" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:NodeId.cs" caret="338" fromTop="11" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:NodeId.cs" caret="435" fromTop="18" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:NodeId.cs" caret="591" fromTop="23" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:NodeId.cs" caret="994" fromTop="28" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:NodeId.cs" caret="843" fromTop="34" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/f:Name.cs" caret="291" fromTop="14" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:SearchRequest.cs" caret="697" fromTop="16" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:SearchRequest.cs" caret="606" fromTop="16" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:SubscribeRequest.cs" caret="304" fromTop="11" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:EventRequest.cs" caret="515" fromTop="13" />
+      <File id="10B9D5E8-9750-460F-8863-FB5EA704A0A4/d:Model/d:Request/f:EventRequest.cs" caret="473" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="1" />
+      <Item value="new" priority="3" />
+      <Item value="ErrorRequest`0" priority="0" />
+      <Item value="Request" priority="0" />
+      <Item value="IElement" priority="8" />
+      <Item value="public" priority="27" />
+      <Item value="Translation`0" priority="1" />
+      <Item value="enum" priority="1" />
+      <Item value="Mimetype`0" priority="0" />
+      <Item value="Force3d`0" priority="1" />
+      <Item value="bool" priority="2" />
+      <Item value="return" priority="7" />
+      <Item value="_force" priority="1" />
+      <Item value="value" priority="7" />
+      <Item value="Value" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="_showCorrect" priority="1" />
+      <Item value="Route`0" priority="1" />
+      <Item value="_shouldRoute" priority="1" />
+      <Item value="_shouldScale" priority="1" />
+      <Item value="_scale" priority="0" />
+      <Item value="Behavior`0" priority="3" />
+      <Item value="behavior" priority="1" />
+      <Item value="_behavior" priority="1" />
+      <Item value="IAttributeCollection`0" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="AppDomainSetup`0" priority="1" />
+      <Item value="TypeAttr" priority="0" />
+      <Item value="idle" priority="1" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="Behaviors`0" priority="0" />
+      <Item value="behaviors" priority="0" />
+      <Item value="_behaviors" priority="3" />
+      <Item value="List" priority="1" />
+      <Item value="AttributeCollection" priority="1" />
+      <Item value="BehaviorAttributes" priority="0" />
+      <Item value="BehaviorAttributes`0" priority="1" />
+      <Item value="Length`0" priority="1" />
+      <Item value="NodeId`0" priority="2" />
+      <Item value="nodeId" priority="1" />
+      <Item value="attributes" priority="0" />
+      <Item value="length" priority="0" />
+      <Item value="NodeId" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="_length" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="_id" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="Params" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Junaio.Core.Model.Mimetype">
+      <Item value="image_png" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Junaio.Core.Model.Mimetype">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Junaio.Core.Model.BehaviorAttributes">
+      <Item value="TypeAttr" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

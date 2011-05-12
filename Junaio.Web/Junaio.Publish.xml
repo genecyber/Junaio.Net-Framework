@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\STRATUS_SVR_1\wwwroot\junaio" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="JunaioPublish" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/JunaioSample.pdb" publishTime="04/28/2011 00:28:48" />
+    <file relUrl="bin/junaioAuthentication.pdb" publishTime="05/11/2010 20:20:14" />
+    <file relUrl="bin/JunaioSample.dll" publishTime="04/28/2011 00:28:48" />
+    <file relUrl="Sample.aspx" publishTime="04/28/2011 00:28:34" />
+    <file relUrl="Web.config" publishTime="04/28/2011 00:19:11" />
+    <file relUrl="bin/nunit.framework.xml" publishTime="03/23/2011 00:18:11" />
+    <file relUrl="bin/nunit.framework.dll" publishTime="03/23/2011 00:18:11" />
+    <file relUrl="bin/junaioAuthentication.dll" publishTime="08/16/2010 10:03:32" />
+  </publishProfile>
+</publishData>
